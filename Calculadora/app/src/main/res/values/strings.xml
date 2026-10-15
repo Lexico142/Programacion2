@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+
+    <string name="titulo">Calculadora de IMC</string>
+
+    <string name="hint_peso">Peso en kg (ej: 70.5)</string>
+    <string name="hint_altura">Altura (ej: 1.75 o 175)</string>
+
+    <string name="radio_metros">Metros (m)</string>
+    <string name="radio_centimetros">Centímetros (cm)</string>
+
+    <string name="boton_calcular">Calcular</string>
+
+    <string name="resultado_inicial">Introduce tus datos y pulsa Calcular</string>
+
+    <string name="error_peso_vacio">Introduce tu peso</string>
+    <string name="error_altura_vacia">Introduce tu altura</string>
+    <string name="error_numero">Introduce un número válido</string>
+    <string name="error_peso_invalido">El peso debe ser mayor que 0</string>
+    <string name="error_altura_invalida">La altura debe ser mayor que 0</string>
+
+    <string name="categoria_bajo_peso">Bajo peso</string>
+    <string name="categoria_normal">Peso normal</string>
+    <string name="categoria_sobrepeso">Sobrepeso</string>
+    <string name="categoria_obesidad">Obesidad</string>
+</resources>
