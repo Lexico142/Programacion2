@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GuiaTuristica</string>
+    <string name="btn_mapa">Ver en mapa</string>
+    <string name="btn_llamar">Llamar</string>
+    <string name="btn_web">Abrir web</string>
+    <string name="btn_compartir">Compartir</string>
+    <string name="error_sin_app">No hay ninguna aplicación disponible para esta acción</string>
+</resources>
